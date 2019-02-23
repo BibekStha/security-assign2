@@ -1,0 +1,28 @@
+main {
+    margin: 100px auto;
+    width: 80%;
+}
+
+form>* {
+    margin-bottom: 10px;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form input[type="submit"] {
+    padding: 5px 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#output {
+    margin-top: 40px;
+}
+
+#output-username, #output-password {
+    font-weight: bold;
+}
